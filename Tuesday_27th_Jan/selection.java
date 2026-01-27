@@ -17,8 +17,7 @@ public class selection {
         for(int i = 0; i<n; i++){
             System.out.print(arr[i]+" ");
         }
-        System.out.println();
-
+        
         for(int i = 0; i < n - 1; i++){
             int min = i;
 
