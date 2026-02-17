@@ -1,8 +1,6 @@
 package Questions.Step_5_Strings;
-
 import java.util.HashMap;
 import java.util.Map;
-
 public class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length(), ans = 0;
@@ -16,10 +14,9 @@ public class LongestSubstringWithoutRepeatingCharacters {
         }
         return ans;
     }
-
     public static void main(String[] args) {
         LongestSubstringWithoutRepeatingCharacters solution = new LongestSubstringWithoutRepeatingCharacters();
         String s = "abcabcbb";
-        System.out.println("Length: " + solution.lengthOfLongestSubstring(s)); // Output: 3
+        System.out.println("Length: " + solution.lengthOfLongestSubstring(s)); 
     }
 }

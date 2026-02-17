@@ -1,21 +1,16 @@
 package Questions.Step_5_Strings;
-
 import java.util.ArrayList;
 import java.util.List;
-
 public class FindAllAnagramsInString {
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> result = new ArrayList<>();
         if (s.length() < p.length())
             return result;
-
         int[] pCount = new int[26];
         int[] sCount = new int[26];
-
         for (char c : p.toCharArray()) {
             pCount[c - 'a']++;
         }
-
         for (int i = 0; i < s.length(); i++) {
             sCount[s.charAt(i) - 'a']++;
             if (i >= p.length()) {
@@ -27,7 +22,6 @@ public class FindAllAnagramsInString {
         }
         return result;
     }
-
     private boolean isSame(int[] a, int[] b) {
         for (int i = 0; i < 26; i++) {
             if (a[i] != b[i])
@@ -35,11 +29,10 @@ public class FindAllAnagramsInString {
         }
         return true;
     }
-
     public static void main(String[] args) {
         FindAllAnagramsInString solution = new FindAllAnagramsInString();
         String s = "cbaebabacd";
         String p = "abc";
-        System.out.println("Anagram Indices: " + solution.findAnagrams(s, p)); // Output: [0, 6]
+        System.out.println("Anagram Indices: " + solution.findAnagrams(s, p)); 
     }
 }

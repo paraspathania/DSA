@@ -1,5 +1,4 @@
 package Questions.Step_3_Arrays;
-
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int index = 0;
@@ -11,7 +10,6 @@ public class RemoveElement {
         }
         return index;
     }
-
     public static void main(String[] args) {
         RemoveElement solution = new RemoveElement();
         int[] nums = {3, 2, 2, 3};

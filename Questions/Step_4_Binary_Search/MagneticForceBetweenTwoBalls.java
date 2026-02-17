@@ -1,7 +1,5 @@
 package Questions.Step_4_Binary_Search;
-
 import java.util.Arrays;
-
 public class MagneticForceBetweenTwoBalls {
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
@@ -18,7 +16,6 @@ public class MagneticForceBetweenTwoBalls {
         }
         return ans;
     }
-
     private boolean canPlace(int[] position, int m, int minForce) {
         int count = 1;
         int lastPos = position[0];
@@ -30,11 +27,10 @@ public class MagneticForceBetweenTwoBalls {
         }
         return count >= m;
     }
-
     public static void main(String[] args) {
         MagneticForceBetweenTwoBalls solution = new MagneticForceBetweenTwoBalls();
         int[] position = { 1, 2, 3, 4, 7 };
         int m = 3;
-        System.out.println("Max Distance: " + solution.maxDistance(position, m)); // Output: 3
+        System.out.println("Max Distance: " + solution.maxDistance(position, m)); 
     }
 }

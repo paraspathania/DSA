@@ -1,5 +1,4 @@
 package Questions.Step_4_Binary_Search;
-
 public class ArrangingCoins {
     public int arrangeCoins(int n) {
         long left = 0, right = n;
@@ -16,10 +15,9 @@ public class ArrangingCoins {
         }
         return (int) right;
     }
-
     public static void main(String[] args) {
         ArrangingCoins solution = new ArrangingCoins();
         int n = 5;
-        System.out.println("Completed Rows: " + solution.arrangeCoins(n)); // Output: 2
+        System.out.println("Completed Rows: " + solution.arrangeCoins(n)); 
     }
 }

@@ -1,8 +1,6 @@
 package Questions.Step_3_Arrays;
-
 import java.util.HashMap;
 import java.util.Map;
-
 public class LongestHarmoniousSubsequence {
     public int findLHS(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -17,10 +15,9 @@ public class LongestHarmoniousSubsequence {
         }
         return res;
     }
-
     public static void main(String[] args) {
         LongestHarmoniousSubsequence solution = new LongestHarmoniousSubsequence();
         int[] nums = { 1, 3, 2, 2, 5, 2, 3, 7 };
-        System.out.println("Longest Harmonious Subsequence: " + solution.findLHS(nums)); // Output: 5
+        System.out.println("Longest Harmonious Subsequence: " + solution.findLHS(nums)); 
     }
 }

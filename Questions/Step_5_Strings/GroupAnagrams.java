@@ -1,7 +1,5 @@
 package Questions.Step_5_Strings;
-
 import java.util.*;
-
 public class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs == null || strs.length == 0)
@@ -17,7 +15,6 @@ public class GroupAnagrams {
         }
         return new ArrayList<>(map.values());
     }
-
     public static void main(String[] args) {
         GroupAnagrams solution = new GroupAnagrams();
         String[] strs = { "eat", "tea", "tan", "ate", "nat", "bat" };

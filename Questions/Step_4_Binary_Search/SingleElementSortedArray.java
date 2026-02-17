@@ -1,5 +1,4 @@
 package Questions.Step_4_Binary_Search;
-
 public class SingleElementSortedArray {
     public int singleNonDuplicate(int[] nums) {
         int left = 0, right = nums.length - 1;
@@ -16,10 +15,9 @@ public class SingleElementSortedArray {
         }
         return nums[left];
     }
-
     public static void main(String[] args) {
         SingleElementSortedArray solution = new SingleElementSortedArray();
         int[] nums = { 1, 1, 2, 3, 3, 4, 4, 8, 8 };
-        System.out.println("Single Element: " + solution.singleNonDuplicate(nums)); // Output: 2
+        System.out.println("Single Element: " + solution.singleNonDuplicate(nums)); 
     }
 }

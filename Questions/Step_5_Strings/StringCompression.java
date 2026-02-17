@@ -1,5 +1,4 @@
 package Questions.Step_5_Strings;
-
 public class StringCompression {
     public int compress(char[] chars) {
         int anchor = 0, write = 0;
@@ -16,12 +15,11 @@ public class StringCompression {
         }
         return write;
     }
-
     public static void main(String[] args) {
         StringCompression solution = new StringCompression();
         char[] chars = { 'a', 'a', 'b', 'b', 'c', 'c', 'c' };
         int newLength = solution.compress(chars);
-        System.out.println("New Length: " + newLength); // Output: 6
+        System.out.println("New Length: " + newLength); 
         System.out.print("Compressed Chars: ");
         for (int i = 0; i < newLength; i++) {
             System.out.print(chars[i] + " ");

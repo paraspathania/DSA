@@ -1,7 +1,5 @@
 package Questions.Step_3_Arrays;
-
 import java.util.Arrays;
-
 public class ValidTriangleNumber {
     public int triangleNumber(int[] nums) {
         int count = 0;
@@ -19,10 +17,9 @@ public class ValidTriangleNumber {
         }
         return count;
     }
-
     public static void main(String[] args) {
         ValidTriangleNumber solution = new ValidTriangleNumber();
         int[] nums = { 2, 2, 3, 4 };
-        System.out.println("Valid Triangle Numbers: " + solution.triangleNumber(nums)); // Output: 3
+        System.out.println("Valid Triangle Numbers: " + solution.triangleNumber(nums)); 
     }
 }

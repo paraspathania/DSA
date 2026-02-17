@@ -1,7 +1,5 @@
 package Questions.Step_5_Strings;
-
 import java.util.Arrays;
-
 public class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0)
@@ -19,10 +17,9 @@ public class LongestCommonPrefix {
         }
         return s1.substring(0, idx);
     }
-
     public static void main(String[] args) {
         LongestCommonPrefix solution = new LongestCommonPrefix();
         String[] strs = { "flower", "flow", "flight" };
-        System.out.println("Longest Common Prefix: " + solution.longestCommonPrefix(strs)); // Output: "fl"
+        System.out.println("Longest Common Prefix: " + solution.longestCommonPrefix(strs)); 
     }
 }

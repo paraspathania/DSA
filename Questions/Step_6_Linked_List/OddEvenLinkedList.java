@@ -1,5 +1,4 @@
 package Questions.Step_6_Linked_List;
-
 public class OddEvenLinkedList {
     public ListNode oddEvenList(ListNode head) {
         if (head == null)
@@ -7,7 +6,6 @@ public class OddEvenLinkedList {
         ListNode odd = head;
         ListNode even = head.next;
         ListNode evenHead = even;
-
         while (even != null && even.next != null) {
             odd.next = even.next;
             odd = odd.next;
@@ -17,7 +15,6 @@ public class OddEvenLinkedList {
         odd.next = evenHead;
         return head;
     }
-
     public static void main(String[] args) {
         System.out.println("Odd Even Linked List implemented.");
     }

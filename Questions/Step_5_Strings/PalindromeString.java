@@ -1,5 +1,4 @@
 package Questions.Step_5_Strings;
-
 public class PalindromeString {
     public int isPalindrome(String S) {
         int i = 0, j = S.length() - 1;
@@ -12,10 +11,9 @@ public class PalindromeString {
         }
         return 1;
     }
-
     public static void main(String[] args) {
         PalindromeString solution = new PalindromeString();
         String S = "abba";
-        System.out.println("Is Palindrome: " + solution.isPalindrome(S)); // Output: 1
+        System.out.println("Is Palindrome: " + solution.isPalindrome(S)); 
     }
 }

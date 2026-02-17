@@ -1,13 +1,9 @@
 package Questions.Step_4_Binary_Search;
-
 class VersionControl {
     boolean isBadVersion(int version) {
-        // Mocking API for local testing
-        // Assume version 4 and onwards are bad
         return version >= 4;
     }
 }
-
 public class FirstBadVersion extends VersionControl {
     public int firstBadVersion(int n) {
         int left = 1;
@@ -22,10 +18,9 @@ public class FirstBadVersion extends VersionControl {
         }
         return left;
     }
-
     public static void main(String[] args) {
         FirstBadVersion solution = new FirstBadVersion();
         int n = 5;
-        System.out.println("First Bad Version: " + solution.firstBadVersion(n)); // Output: 4
+        System.out.println("First Bad Version: " + solution.firstBadVersion(n)); 
     }
 }

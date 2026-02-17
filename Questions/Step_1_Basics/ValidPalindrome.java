@@ -1,5 +1,4 @@
 package Questions.Step_1_Basics;
-
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
         if (s.isEmpty()) {
@@ -24,10 +23,9 @@ public class ValidPalindrome {
         }
         return true;
     }
-
     public static void main(String[] args) {
         ValidPalindrome solution = new ValidPalindrome();
         String s = "A man, a plan, a canal: Panama";
-        System.out.println("Is Palindrome: " + solution.isPalindrome(s)); // Output: true
+        System.out.println("Is Palindrome: " + solution.isPalindrome(s)); 
     }
 }

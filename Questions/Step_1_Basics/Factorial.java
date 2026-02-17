@@ -1,5 +1,4 @@
 package Questions.Step_1_Basics;
-
 public class Factorial {
     public long factorial(int N) {
         long fact = 1;
@@ -8,10 +7,9 @@ public class Factorial {
         }
         return fact;
     }
-
     public static void main(String[] args) {
         Factorial solution = new Factorial();
         int N = 5;
-        System.out.println("Factorial: " + solution.factorial(N)); // Output: 120
+        System.out.println("Factorial: " + solution.factorial(N)); 
     }
 }
