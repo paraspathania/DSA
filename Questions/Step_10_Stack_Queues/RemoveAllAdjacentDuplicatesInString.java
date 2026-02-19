@@ -1,5 +1,5 @@
 package Questions.Step_10_Stack_Queues;
-import java.util.Stack;
+//import java.util.Stack;
 public class RemoveAllAdjacentDuplicatesInString {
     public String removeDuplicates(String s) {
         StringBuilder sb = new StringBuilder();

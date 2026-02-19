@@ -1,5 +1,5 @@
 package Questions.Step_3_Arrays;
-import java.util.Arrays;
+//import java.util.Arrays;
 public class MinimumRemovalsToBalanceArray {
     public int minRemovals(int[] nums) {
         return 0;

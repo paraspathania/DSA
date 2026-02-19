@@ -1,6 +1,6 @@
 package Questions.Step_4_Binary_Search;
 import java.util.Arrays;
-import java.util.HashMap;
+//import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 public class FindRightInterval {
