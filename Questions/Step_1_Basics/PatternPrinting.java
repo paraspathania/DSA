@@ -37,5 +37,6 @@ public class PatternPrinting {
         printRightTriangle(n);
         System.out.println();
         printInvertedRightTriangle(n);
+        sc.close();
     }
 }
