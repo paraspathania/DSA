@@ -5,7 +5,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 
 ## 🗂️ Repository Structure
 
-The code is organized by date/session and by topic (Striver's A2Z Sheet):
+The code is organized by date/session and by topic (DSA Sheet):
 
 - **Thursday_22th_Jan/**: Initial practice code.
 - **Tuesday_27th_Jan/**: Recent sessions.
