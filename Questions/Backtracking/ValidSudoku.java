@@ -1,4 +1,4 @@
-package Questions.Step_9_Backtracking;
+package Questions.Backtracking;
 import java.util.HashSet;
 import java.util.Set;
 public class ValidSudoku {

@@ -1,4 +1,4 @@
-package Questions.Step_9_Backtracking;
+package Questions.Backtracking;
 public class BeautifulArrangement {
     int count = 0;
     public int countArrangement(int n) {

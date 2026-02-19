@@ -1,4 +1,4 @@
-package Questions.Step_6_Linked_List;
+package Questions.Linked_List;
 public class RotateList {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k == 0)

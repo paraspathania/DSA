@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 import java.util.Arrays;
 public class ValidTriangleNumber {
     public int triangleNumber(int[] nums) {

@@ -1,4 +1,4 @@
-package Questions.Step_11_Sliding_Window;
+package Questions.Sliding_Window;
 public class MinOpsReduceXToZero {
     public int minOperations(int[] nums, int x) {
         int totalSum = 0;

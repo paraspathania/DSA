@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 import java.util.Arrays;
 public class MagneticForceBetweenTwoBalls {
     public int maxDistance(int[] position, int m) {

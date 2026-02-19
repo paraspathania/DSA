@@ -1,4 +1,4 @@
-package Questions.Step_1_Basics;
+package Questions.Basics;
 public class Factorial {
     public long factorial(int N) {
         long fact = 1;

@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 public class PalindromeString {
     public int isPalindrome(String S) {
         int i = 0, j = S.length() - 1;

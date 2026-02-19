@@ -1,4 +1,4 @@
-package Questions.Step_9_Backtracking;
+package Questions.Backtracking;
 import java.util.HashMap;
 import java.util.Map;
 public class BeautifulSubsets {

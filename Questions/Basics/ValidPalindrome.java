@@ -1,4 +1,4 @@
-package Questions.Step_1_Basics;
+package Questions.Basics;
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
         if (s.isEmpty()) {

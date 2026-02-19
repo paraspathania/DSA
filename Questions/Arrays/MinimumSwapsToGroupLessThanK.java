@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 public class MinimumSwapsToGroupLessThanK {
     public int minSwap(int arr[], int n, int k) {
         int count = 0;

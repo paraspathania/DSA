@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int index = 0;

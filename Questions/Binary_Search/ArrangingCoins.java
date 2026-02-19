@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 public class ArrangingCoins {
     public int arrangeCoins(int n) {
         long left = 0, right = n;

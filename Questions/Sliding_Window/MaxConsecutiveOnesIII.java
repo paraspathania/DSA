@@ -1,4 +1,4 @@
-package Questions.Step_11_Sliding_Window;
+package Questions.Sliding_Window;
 public class MaxConsecutiveOnesIII {
     public int longestOnes(int[] nums, int k) {
         int left = 0, right = 0;

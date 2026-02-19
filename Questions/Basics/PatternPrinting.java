@@ -1,4 +1,4 @@
-package Questions.Step_1_Basics;
+package Questions.Basics;
 import java.util.Scanner;
 public class PatternPrinting {
     public static void printSquare(int n) {

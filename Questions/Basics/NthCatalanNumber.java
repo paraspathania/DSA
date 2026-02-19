@@ -1,4 +1,4 @@
-package Questions.Step_1_Basics;
+package Questions.Basics;
 public class NthCatalanNumber {
     public int findCatalan(int n) {
         int catalan[] = new int[n + 2];

@@ -1,4 +1,4 @@
-package Questions.Step_6_Linked_List;
+package Questions.Linked_List;
 public class ReorderList {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null)

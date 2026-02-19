@@ -1,4 +1,4 @@
-package Questions.Step_11_Sliding_Window;
+package Questions.Sliding_Window;
 import java.util.Deque;
 import java.util.LinkedList;
 public class SlidingWindowMaximum {

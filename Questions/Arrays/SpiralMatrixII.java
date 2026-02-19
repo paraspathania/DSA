@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 public class SpiralMatrixII {
     public int[][] generateMatrix(int n) {
         int[][] matrix = new int[n][n];

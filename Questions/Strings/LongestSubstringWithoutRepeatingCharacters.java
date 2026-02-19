@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 import java.util.HashMap;
 import java.util.Map;
 public class LongestSubstringWithoutRepeatingCharacters {

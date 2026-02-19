@@ -1,4 +1,4 @@
-package Questions.Step_13_DP;
+package Questions.DP;
 public class ArithmeticSlices {
     public int numberOfArithmeticSlices(int[] nums) {
         if (nums.length < 3)

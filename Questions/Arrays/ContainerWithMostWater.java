@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {
         int left = 0;

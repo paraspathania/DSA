@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 public class IsSubsequence {
     public boolean isSubsequence(String s, String t) {
         int i = 0, j = 0;

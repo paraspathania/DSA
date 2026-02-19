@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 public class FindIndexFirstOccurrence {
     public int strStr(String haystack, String needle) {
         return haystack.indexOf(needle);

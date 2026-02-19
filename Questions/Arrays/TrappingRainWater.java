@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 public class TrappingRainWater {
     public int trap(int[] height) {
         if (height == null || height.length == 0) {

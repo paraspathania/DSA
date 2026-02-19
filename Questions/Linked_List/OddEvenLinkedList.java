@@ -1,4 +1,4 @@
-package Questions.Step_6_Linked_List;
+package Questions.Linked_List;
 public class OddEvenLinkedList {
     public ListNode oddEvenList(ListNode head) {
         if (head == null)

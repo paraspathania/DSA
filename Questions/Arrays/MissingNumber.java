@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 public class MissingNumber {
     public int missingNumber(int[] nums) {
         int n = nums.length;

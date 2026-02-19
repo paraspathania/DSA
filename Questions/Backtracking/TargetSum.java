@@ -1,4 +1,4 @@
-package Questions.Step_9_Backtracking;
+package Questions.Backtracking;
 public class TargetSum {
     int count = 0;
     public int findTargetSumWays(int[] nums, int target) {

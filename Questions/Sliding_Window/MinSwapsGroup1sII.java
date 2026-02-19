@@ -1,4 +1,4 @@
-package Questions.Step_11_Sliding_Window;
+package Questions.Sliding_Window;
 public class MinSwapsGroup1sII {
     public int minSwaps(int[] nums) {
         int ones = 0;

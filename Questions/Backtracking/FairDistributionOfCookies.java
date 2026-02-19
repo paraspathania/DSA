@@ -1,4 +1,4 @@
-package Questions.Step_9_Backtracking;
+package Questions.Backtracking;
 public class FairDistributionOfCookies {
     int ans = Integer.MAX_VALUE;
     public int distributeCookies(int[] cookies, int k) {

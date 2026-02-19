@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 public class MedianOfTwoSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if (nums1.length > nums2.length) {

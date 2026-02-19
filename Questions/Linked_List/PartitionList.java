@@ -1,4 +1,4 @@
-package Questions.Step_6_Linked_List;
+package Questions.Linked_List;
 public class PartitionList {
     public ListNode partition(ListNode head, int x) {
         ListNode beforeStart = new ListNode(0);

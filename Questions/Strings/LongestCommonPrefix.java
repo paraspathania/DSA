@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 import java.util.Arrays;
 public class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {

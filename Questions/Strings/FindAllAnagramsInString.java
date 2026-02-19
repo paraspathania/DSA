@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 import java.util.ArrayList;
 import java.util.List;
 public class FindAllAnagramsInString {

@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 public class SearchA2DMatrixII {
     public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix.length == 0)

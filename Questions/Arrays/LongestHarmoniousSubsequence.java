@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 public class LongestHarmoniousSubsequence {

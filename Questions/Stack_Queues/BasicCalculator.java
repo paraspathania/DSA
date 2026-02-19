@@ -1,4 +1,4 @@
-package Questions.Step_10_Stack_Queues;
+package Questions.Stack_Queues;
 import java.util.Stack;
 public class BasicCalculator {
     public int calculate(String s) {

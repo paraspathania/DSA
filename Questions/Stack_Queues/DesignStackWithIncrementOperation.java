@@ -1,4 +1,4 @@
-package Questions.Step_10_Stack_Queues;
+package Questions.Stack_Queues;
 public class DesignStackWithIncrementOperation {
     private int[] stack;
     private int[] inc;

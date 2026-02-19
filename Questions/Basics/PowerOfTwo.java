@@ -1,4 +1,4 @@
-package Questions.Step_1_Basics;
+package Questions.Basics;
 public class PowerOfTwo {
     public boolean isPowerOfTwo(int n) {
         if (n <= 0)

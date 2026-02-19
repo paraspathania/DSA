@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 public class SingleElementSortedArray {
     public int singleNonDuplicate(int[] nums) {
         int left = 0, right = nums.length - 1;

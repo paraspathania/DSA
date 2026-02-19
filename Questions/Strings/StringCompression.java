@@ -1,4 +1,4 @@
-package Questions.Step_5_Strings;
+package Questions.Strings;
 public class StringCompression {
     public int compress(char[] chars) {
         int anchor = 0, write = 0;

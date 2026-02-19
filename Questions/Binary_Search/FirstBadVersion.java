@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 class VersionControl {
     boolean isBadVersion(int version) {
         return version >= 4;

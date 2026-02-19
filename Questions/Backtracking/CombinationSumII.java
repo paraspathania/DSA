@@ -1,4 +1,4 @@
-package Questions.Step_9_Backtracking;
+package Questions.Backtracking;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

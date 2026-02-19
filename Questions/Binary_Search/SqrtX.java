@@ -1,4 +1,4 @@
-package Questions.Step_4_Binary_Search;
+package Questions.Binary_Search;
 public class SqrtX {
     public int mySqrt(int x) {
         if (x == 0)

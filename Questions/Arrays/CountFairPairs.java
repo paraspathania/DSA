@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 import java.util.Arrays;
 public class CountFairPairs {
     public long countFairPairs(int[] nums, int lower, int upper) {

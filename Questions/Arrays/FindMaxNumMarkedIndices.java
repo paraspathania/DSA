@@ -1,4 +1,4 @@
-package Questions.Step_3_Arrays;
+package Questions.Arrays;
 import java.util.Arrays;
 public class FindMaxNumMarkedIndices {
     public int maxNumOfMarkedIndices(int[] nums) {
