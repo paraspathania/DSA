@@ -19,7 +19,7 @@ I practice in both **C++** and **Java** to ensure versatility.
 - **Languages**: C++, Java
 - **Tools**: VS Code, MinGW (g++), JDK
 
-## 🧩 DSA Progress (Striver's A2Z Sheet Topics)
+## 🧩 DSA Progress (Sheet Topics)
 
 The `Questions/` directory is organized by topic:
 
