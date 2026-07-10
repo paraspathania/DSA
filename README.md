@@ -64,3 +64,11 @@ The files in the `Questions` directory use packages (e.g., `package Questions.St
 
 ---
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0577-employee-bonus](https://github.com/paraspathania/DSA/tree/main/0577-employee-bonus/) | Easy |
+<!---LeetCode Topics End-->
