@@ -77,8 +77,5 @@ Happy Coding! 💻
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/paraspathania/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/paraspathania/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+Medium |
 <!---LeetCode Topics End-->
