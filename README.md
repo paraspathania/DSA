@@ -41,3 +41,17 @@ The files in the `Questions` directory use packages (e.g., `package Questions.St
 
 ---
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/paraspathania/DSA/tree/master/0175-combine-two-tables/) | Easy |
+| [0577-employee-bonus](https://github.com/paraspathania/DSA/tree/master/0577-employee-bonus/) | Easy |
+
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/paraspathania/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+<!---LeetCode Topics End-->
