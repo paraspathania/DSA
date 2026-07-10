@@ -3,24 +3,12 @@
 Welcome to my **Data Structures and Algorithms** repository! 🚀
 This folder tracks my journey in mastering DSA, containing problem solutions, practice codes, and notes organized by sessions and topics.
 
----
-
 ## 🛠️ Technology Stack
 
 I practice in both **C++** and **Java** to ensure versatility.
 
 - **Languages**: C++, Java
 - **Tools**: VS Code, MinGW (g++), JDK
-
----
-
-## 🧩 Topics Covered
-
-- **Basics**: Patterns, Basic Math, Recursion
-- **Data Structures**: Arrays, Linked Lists, Strings, Stacks, Queues
-- **Algorithms**: Binary Search, Sorting, Two Pointers, Sliding Window, Backtracking, Dynamic Programming
-
----
 
 ## 🏃‍♂️ How to Run
 
@@ -45,10 +33,11 @@ The files in the `Questions` directory use packages (e.g., `package Questions.St
    java Questions.Stack_Queues.BasicCalculator
    ```
 
+## 📌 Topics Covered
+
+- **Basics**: Patterns, Basic Math, Recursion
+- **Data Structures**: Arrays, Linked Lists, Strings, Stacks, Queues
+- **Algorithms**: Binary Search, Sorting, Two Pointers, Sliding Window, Backtracking, Dynamic Programming
+
 ---
-
-> **Note:** Solution folders have been reset. New content will be added as progress continues.
-
----
-
 Happy Coding! 💻
