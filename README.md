@@ -52,4 +52,8 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/paraspathania/DSA/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
