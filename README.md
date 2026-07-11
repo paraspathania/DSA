@@ -29,10 +29,12 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/paraspathania/DSA/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/paraspathania/DSA/tree/main/0050-powx-n/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -46,4 +48,8 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/paraspathania/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
