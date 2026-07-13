@@ -60,6 +60,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/paraspathania/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/paraspathania/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -69,4 +70,8 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/paraspathania/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/paraspathania/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
