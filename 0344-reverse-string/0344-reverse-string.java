@@ -5,16 +5,18 @@ class Solution {
         int r = n - 1;
 
         while(l < r){
-        swap(s, l, r);
-
+        //swap(s, l, r);
+        char temp = s[l];
+        s[l] = s[r];
+        s[r] = temp;
         l++;
         r--;
         }
 
     }
-    void swap(char[] s, int l, int r){
-        char temp = s[l];
-        s[l] = s[r];
-        s[r] = temp;
-    }
+    // void swap(char[] s, int l, int r){
+    //     char temp = s[l];
+    //     s[l] = s[r];
+    //     s[r] = temp;
+    // }
 }
