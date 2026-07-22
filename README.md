@@ -41,6 +41,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paraspathania/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/paraspathania/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -75,9 +76,14 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0344-reverse-string](https://github.com/paraspathania/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paraspathania/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
