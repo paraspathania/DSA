@@ -43,6 +43,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0004-median-of-two-sorted-arrays](https://github.com/paraspathania/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/paraspathania/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -94,4 +95,12 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paraspathania/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
