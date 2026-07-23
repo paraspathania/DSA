@@ -47,6 +47,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/paraspathania/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/paraspathania/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/paraspathania/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Matrix
@@ -64,6 +65,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/paraspathania/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0344-reverse-string](https://github.com/paraspathania/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/paraspathania/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
@@ -90,5 +92,6 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/paraspathania/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
