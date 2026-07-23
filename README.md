@@ -43,6 +43,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0004-median-of-two-sorted-arrays](https://github.com/paraspathania/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/paraspathania/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
