@@ -46,6 +46,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/paraspathania/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/paraspathania/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,5 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/paraspathania/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/paraspathania/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
