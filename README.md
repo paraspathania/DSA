@@ -32,6 +32,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/paraspathania/DSA/tree/main/0050-powx-n/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/paraspathania/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/paraspathania/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/paraspathania/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -107,4 +109,8 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0303-range-sum-query-immutable](https://github.com/paraspathania/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/paraspathania/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/paraspathania/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
