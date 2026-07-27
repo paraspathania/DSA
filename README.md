@@ -48,6 +48,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/paraspathania/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/paraspathania/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paraspathania/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/paraspathania/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -113,4 +114,9 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paraspathania/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paraspathania/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
