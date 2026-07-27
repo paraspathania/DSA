@@ -32,12 +32,14 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/paraspathania/DSA/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/paraspathania/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/paraspathania/DSA/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/paraspathania/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,12 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paraspathania/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/paraspathania/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/paraspathania/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
