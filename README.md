@@ -76,6 +76,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | [0003-longest-substring-without-repeating-characters](https://github.com/paraspathania/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0344-reverse-string](https://github.com/paraspathania/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/paraspathania/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/paraspathania/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/paraspathania/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paraspathania/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/paraspathania/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/paraspathania/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/paraspathania/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
