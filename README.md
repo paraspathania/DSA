@@ -14,6 +14,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/paraspathania/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/paraspathania/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/paraspathania/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/paraspathania/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/paraspathania/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -22,6 +23,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/paraspathania/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/paraspathania/DSA/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/paraspathania/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/paraspathania/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/paraspathania/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -34,6 +36,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/paraspathania/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/paraspathania/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/paraspathania/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/paraspathania/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/paraspathania/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -155,5 +158,6 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/paraspathania/DSA/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/paraspathania/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
