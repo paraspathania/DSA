@@ -89,6 +89,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paraspathania/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/paraspathania/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ This folder tracks my journey in mastering DSA, containing problem solutions, pr
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/paraspathania/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0344-reverse-string](https://github.com/paraspathania/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/paraspathania/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
